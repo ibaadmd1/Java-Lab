@@ -6,7 +6,7 @@
  * Represents a ShapeMaker class that acts as a facade for drawing different shapes.
  * It contains instances of Circle, Rectangle, and Square and provides methods to draw each shape.
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  * @version 1.0
  */
 package FacadePattern;

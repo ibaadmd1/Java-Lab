@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  */
 
 public class BuggyControl {

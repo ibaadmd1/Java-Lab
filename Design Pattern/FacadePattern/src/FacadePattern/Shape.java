@@ -6,7 +6,7 @@
  * Represents a generic shape interface.
  * All shape classes implementing this interface are required to provide a draw method.
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  * @version 1.0
  */
 package FacadePattern;

@@ -10,7 +10,7 @@ package FactoryPatternDemo;
  * Represents a factory class for creating different shapes.
  * It contains a method getShape that takes a shapeType as input and returns an instance of the corresponding shape.
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  * @version 1.0
  */
 public class ShapeFactory {

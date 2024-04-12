@@ -6,7 +6,7 @@
  * Represents a Rectangle shape that implements the Shape interface.
  * Provides the specific implementation of the draw method for drawing a rectangle.
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  * @version 1.0
  */
 package FacadePattern;

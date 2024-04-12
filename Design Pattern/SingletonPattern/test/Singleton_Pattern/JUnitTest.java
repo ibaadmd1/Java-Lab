@@ -9,7 +9,7 @@ import org.junit.Test;
 import Singleton_Pattern.SingleObject;
 /**
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  */
 public class JUnitTest {
     

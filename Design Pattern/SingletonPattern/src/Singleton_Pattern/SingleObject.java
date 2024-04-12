@@ -6,7 +6,7 @@
  * Represents a Singleton pattern implementation with a single object.
  * This class ensures that only one instance of the object is created and provide access to it.
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  * @version 1.0
  */
 package Singleton_Pattern;

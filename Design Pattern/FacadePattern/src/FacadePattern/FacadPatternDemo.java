@@ -7,7 +7,7 @@
  * Represents a demo class to demonstrate the usage of the Facade Pattern with ShapeMaker.
  * It creates a ShapeMaker object and calls its methods to draw different shapes.
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  * @version 1.0
  */
 package FacadePattern;

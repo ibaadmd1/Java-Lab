@@ -5,7 +5,7 @@
 
 /**
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  */
 package BuggyMachine;
 class AcceleratingBackwardState implements BuggyState {

@@ -6,7 +6,7 @@
  * Demonstrates the use of the Singleton pattern by obtaining the instance
  * of SingleObject and invoking its method.
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  * @version 1.0
  */
 package Singleton_Pattern;

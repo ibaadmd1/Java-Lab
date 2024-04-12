@@ -9,7 +9,7 @@ package FactoryPatternDemo;
  * Represents a Circle shape that implements the Shape interface.
  * Provides the specific implementation of the draw method for drawing a circle.
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  * @version 1.0
  */
 public class Circle implements Shape {

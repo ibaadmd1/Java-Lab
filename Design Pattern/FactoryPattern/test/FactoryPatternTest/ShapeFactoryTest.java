@@ -11,7 +11,7 @@ import org.junit.Test;
 
 /**
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  */
 public class ShapeFactoryTest {
     

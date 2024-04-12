@@ -16,7 +16,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  */
 public class ShapeMakerTest {
     

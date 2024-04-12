@@ -8,7 +8,7 @@ package FactoryPatternDemo;
  * Represents a demo class to demonstrate the usage of the Factory Pattern with ShapeFactory.
  * It creates an instance of ShapeFactory and uses it to create and draw different shapes.
  *
- * @author zaheeruddin
+ * @author Ibaad Mohammed
  * @version 1.0
  */
 public class FactoryPatternDemo {
